@@ -23,7 +23,8 @@ public class ApiUtil {
          "https://www.googleapis.com/books/v1/volumes";
     public static final String QUERY_PARAMETER_KEY = "q";
     public static final String KEY = "key";
-    public static final String API_KEY ="AIzaSyCScMn1DvSBHo9v1QlEzflhbySh15EanEU";
+    public static final String API_KEY ="Insert Google Books API key here";
+    //for privacy reasons i had to remove the api key
     public static final String TITLE = "intitle:";
     public static final String AUTHOR = "inauthor:";
     public static final String PUBLISHER = "inpublisher:";
