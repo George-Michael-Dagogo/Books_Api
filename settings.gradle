@@ -1,0 +1,2 @@
+rootProject.name='Books Api'
+include ':app'
